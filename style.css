@@ -1,0 +1,147 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+body.dark-mode .nav-links li a {
+    color: white;
+}
+
+body.dark-mode .nav-links {
+background-color: black;}
+
+body.dark-mode nav{
+    background-color: black;
+    color: white;
+}
+
+body.dark-mode button{
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: black;
+    color: black;
+}
+
+
+body.dark-mode .dark-text {
+    color: white;
+}
+/* 
+:root {
+    --black-dark: #353535;  
+    --black : #000;
+    --white : #fff;
+    --base : ##FF5555;
+    --basegold: #FDE598;
+} */
+
+nav {
+    z-index: 100;
+    padding-top: 5px;
+    top: 0;
+    /* background-color: var(--white); */
+    padding-bottom: 10px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    left: 0;
+    position: fixed;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+
+.logo {
+    margin-left: 2%;
+}
+
+.logo img {
+    position: relative;
+    width: 117px;
+    height: 34.41px;
+}
+
+.nav-links {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between; 
+}
+
+.nav-links li {
+    position: relative;
+    font-weight: 500;
+    padding: 10px;
+    margin-inline: 1em; 
+    list-style: none;
+}
+
+.nav-links li a:hover{
+    font-weight: 600;
+    color: #FF5555;
+}
+
+.nav-links li a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-button {
+    position: relative;
+    margin-right: 5%; 
+    padding-inline: 2em;
+    padding-block: 1em; 
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
+
+.switch-mode {
+    position: relative;
+    margin-right: 1.5%; 
+    padding-inline: 2em;
+    padding-block: 1em; 
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
+
+.nav-button:hover {
+    background-color: #FF5555;
+    color: white;
+}
+
+.switch-mode:hover {
+    background-color: #FF5555;
+    color: white;
+}
+
+
+
+.menu-toggle {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    display: none;
+}
+
+.close-btn {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+}
