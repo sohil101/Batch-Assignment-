@@ -1,3 +1,7 @@
+@font-face {
+    font-family: ClashDisplay;
+    src: url(Fonts/ClashDisplay-Variable.ttf);
+}
 html, body {
     height: 100%;
     margin: 0;
@@ -44,7 +48,7 @@ nav {
     z-index: 100;
     padding-top: 5px;
     top: 0;
-    /* background-color: var(--white); */
+    background-color: white;
     padding-bottom: 10px;
     display: flex;
     width: 100%;
@@ -160,7 +164,7 @@ nav {
 }
 
 .left-text-heading-section h1 {
-    color: var(--black);
+    color: black;
     font-size: 64px;
     font-family: ClashDisplay;
     text-transform: capitalize;
@@ -168,7 +172,7 @@ nav {
 
 .left-text-heading-section p {
     width: 80%;
-    color: var(--black);
+    color: black;
     opacity: 60%;
     font-size: 18px;
     font-family: ClashDisplay;
@@ -181,8 +185,8 @@ nav {
 }
 
 .Started-btn {
-    color: var(--white);
-    background-color: var(--black);
+    color: white;
+    background-color: black;
     border: none;
     margin-right: 15px;
     font-family: ClashDisplay;
@@ -196,9 +200,9 @@ nav {
 
 .Video-btn {
     cursor: pointer;
-    color: var(--black);
-    background-color: var(--white);
-    border: none;
+    color: black;
+    background-color: white;
+    border: solid black;
     font-family: ClashDisplay;
     padding-inline: 40px;
     padding-block: 20px;
@@ -213,9 +217,14 @@ nav {
  padding-right: 5px;
 }
 
+.Started-btn:hover{
+    background-color: #FF5555;
+    color: white;
+}
+
 .Video-btn:hover{
-    background-color: var(--base);
-    color: var(--white);
+    background-color: #FF5555;
+    color: white;
 }
 
 .right-img-heading-section {
@@ -405,7 +414,7 @@ color: var(--black);
 
 .mid-top-heading-sub i {
     margin-right: 15px;
-    color: var(--white);
+    color: white;
     background-color: var(--base);
     padding-inline: 14px;
     padding-block: 12px;
@@ -476,7 +485,7 @@ text-transform: capitalize;
 
 .bottom-top-heading-sub i {
     margin-right: 15px;
-    color: var(--white);
+    color: white;
     background-color: var(--base);
     padding-inline: 14px;
     padding-block: 12px;
@@ -640,7 +649,7 @@ text-transform: capitalize;
 }
 
 .faq-color-back h1{
-    color: var(--white);
+    color: white;
 font-family: ClashDisplay;
 font-size: 22px;
 font-style: normal;
@@ -650,7 +659,7 @@ text-transform: capitalize;
 }
 
 .faq-color-back p {
-    color: var(--white);
+    color: white;
 text-align: justify;
 font-family: ClashDisplay;
 font-size: 14px;
@@ -709,7 +718,7 @@ text-transform: capitalize;
 }
 
 .textdata-banner h1 {
-    color: var(--white);
+    color: white;
     font-family: ClashDisplay;
     font-size: 4em; 
     font-style: normal;
@@ -720,7 +729,7 @@ text-transform: capitalize;
 
 .textdata-banner h2 {
     width: 80%;
-    color: var(--white);
+    color: white;
     font-family: ClashDisplay;
     font-size: 1.5em; 
     font-style: normal;
@@ -734,7 +743,7 @@ text-transform: capitalize;
     padding-inline: 35px;
     padding-block: 15px;
     border-radius: 4px;
-    background: var(--white);
+    background: white;
     color: var(--black);
     font-family: ClashDisplay;
     font-size: 1.125em; /* Use relative units for font size */
@@ -748,7 +757,7 @@ text-transform: capitalize;
 
 .textdata-banner button:hover {
     background-color: var(--base);
-    color: var(--white);
+    color: white;
 }
 
 
@@ -920,7 +929,7 @@ text-transform: capitalize;
 .submit-btn-form {
     padding-block: 10px;
     padding-inline: 35px;
-    color: var(--white);
+    color: white;
 font-family: ClashDisplay;
 font-size: 16px;
 font-style: normal;
@@ -985,7 +994,7 @@ nav {
         z-index: 50;
         height: 100%;
         width: 220px;
-        background-color: var(--white);
+        background-color: white;
         flex-direction: column;
         align-items: flex-start;
         padding-top: 60px;
@@ -1353,7 +1362,7 @@ font-size: 16px;
 
 .textdata-banner button:hover {
     background-color: var(--base);
-    color: var(--white);
+    color: white;
 }
 
 
@@ -1391,7 +1400,7 @@ footer {
             z-index: 50;
             height: 100%;
             width: 280px;
-            background-color: var(--white);
+            background-color: white;
             flex-direction: column;
             align-items: flex-start;
             padding-top: 65px;
@@ -1760,7 +1769,7 @@ footer {
     
     .textdata-banner button:hover {
         background-color: var(--base);
-        color: var(--white);
+        color: white;
     }
     
     
