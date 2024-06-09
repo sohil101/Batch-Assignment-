@@ -287,7 +287,7 @@ nav {
     text-transform: uppercase;
     font-family: ClashDisplay;
     font-size: 18px;
-    color: var(--base);
+    color: #FF5555;
     font-weight: 500;
     letter-spacing: 2.88px;
     font-style: normal;
@@ -303,7 +303,7 @@ nav {
 
 .top-heading-sub h1{
     margin-top: 6px;
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 48px;
     font-style: normal;
@@ -332,17 +332,17 @@ nav {
     display: flex;
     align-items: center;
     font-size: 18px;
-font-style: normal;
-font-weight: 600;
+    font-style: normal;
+    font-weight: 600;
 }
 
 .features-list-sub li p{
     width: 100%;
     font-size: 18px;
-font-style: normal;
-font-weight: 500;
-opacity: 0.5;
-color: var(--black);
+    font-style: normal;
+    font-weight: 500;
+    opacity: 0.5;
+    color: black;
 }
 
 .mid-sub-main-section{
@@ -373,7 +373,7 @@ color: var(--black);
     text-transform: uppercase;
     font-family: ClashDisplay;
     font-size: 18px;
-    color: var(--base);
+    color: #FF5555;
     font-weight: 500;
     letter-spacing: 2.88px;
     font-style: normal;
@@ -389,7 +389,7 @@ color: var(--black);
 
 .mid-top-heading-sub h1{
     margin-top: 6px;
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 48px;
     font-style: normal;
@@ -401,7 +401,7 @@ color: var(--black);
 .mid-top-heading-sub h2{
     
     margin-top: 6px;
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 30px;
     font-style: normal;
@@ -413,7 +413,7 @@ color: var(--black);
 .mid-top-heading-sub i {
     margin-right: 15px;
     color: white;
-    background-color: var(--base);
+    background-color: #FF5555;
     padding-inline: 14px;
     padding-block: 12px;
     border-radius: 100%;
@@ -421,7 +421,7 @@ color: var(--black);
 
 .mid-top-heading-sub p{
 width: 90%;
-color: var(--black);
+color: black;
 font-family: ClashDisplay;
 font-size: 18px;
 font-style: normal;
@@ -472,7 +472,7 @@ text-transform: capitalize;
 .bottom-top-heading-sub h2{
     
     margin-top: 6px;
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 30px;
     font-style: normal;
@@ -484,22 +484,22 @@ text-transform: capitalize;
 .bottom-top-heading-sub i {
     margin-right: 15px;
     color: white;
-    background-color: var(--base);
+    background-color: #FF5555;
     padding-inline: 14px;
     padding-block: 12px;
     border-radius: 100%;
 }
 
 .bottom-top-heading-sub p{
-width: 90%;
-color: var(--black);
-font-family: ClashDisplay;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px; /* 155.556% */
-opacity: 0.5;
-text-transform: capitalize;
+    width: 90%;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    opacity: 0.5;
+    text-transform: capitalize;
 }
 
 .testinomail-section-bottom {
@@ -537,27 +537,27 @@ text-transform: capitalize;
 }
 
 .head-testinomial small{
-    color: var(--black);
-text-align: center;
-font-family: ClashDisplay;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px; /* 155.556% */
-letter-spacing: 2.88px;
-text-transform: uppercase;
+    color: black;
+    text-align: center;
+    font-family: ClashDisplay;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    letter-spacing: 2.88px;
+    text-transform: uppercase;
 }
 
 .head-testinomial h1{
     margin-top: 0.5%;
-    color: var(--black);
-text-align: center;
-font-family: ClashDisplay;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: 48px; /* 100% */
-text-transform: capitalize;
+    color: black;
+    text-align: center;
+    font-family: ClashDisplay;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+    text-transform: capitalize;
 }
 
 .body-text-testinomial-user {
@@ -565,28 +565,28 @@ text-transform: capitalize;
 }
 
 .body-text-testinomial-user h1{
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 28px;
-font-style: normal;
-font-weight: 600;
-line-height: 28px; /* 100% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 100% */
+    text-transform: capitalize;
 }
 
 .body-text-testinomial-user p{
-    color: var(--black);
-font-family: ClashDisplay;
-opacity: 0.5;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px; /* 155.556% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    opacity: 0.5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    text-transform: capitalize;
 }
 
 .body-text-testinomial-user h2{
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 18px;
     font-style: normal;
@@ -608,26 +608,26 @@ text-transform: capitalize;
 }
 
 .head-faq small{
-    color: var(--base);
-font-family: ClashDisplay;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px; /* 155.556% */
-letter-spacing: 2.88px;
-text-transform: uppercase;
+    color: #FF5555;
+    font-family: ClashDisplay;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    letter-spacing: 2.88px;
+    text-transform: uppercase;
 }
 
 .head-faq h1 {
     width: 450px;
     margin-top: 1%;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: 48px; /* 100% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+    text-transform: capitalize;
 }
 
 .faq-sub-top,.faq-sub-mid {
@@ -642,29 +642,29 @@ text-transform: capitalize;
     border-radius: 8px;
     width: 40%;
     display: block;
-    background-color: var(--base);
+    background-color: #FF5555;
     padding: 15px;
 }
 
 .faq-color-back h1{
     color: white;
-font-family: ClashDisplay;
-font-size: 22px;
-font-style: normal;
-font-weight: 600;
-line-height: 28px; /* 100% */
-text-transform: capitalize;
+    font-family: ClashDisplay;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 100% */
+    text-transform: capitalize;
 }
 
 .faq-color-back p {
     color: white;
-text-align: justify;
-font-family: ClashDisplay;
-font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px; /* 155.556% */
-text-transform: capitalize;
+    text-align: justify;
+    font-family: ClashDisplay;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    text-transform: capitalize;
 }
 
 
@@ -677,25 +677,25 @@ text-transform: capitalize;
 }
 
 .faq-no-back h1{
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 22px;
-font-style: normal;
-font-weight: 600;
-line-height: 28px;
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    -height: 28px;
+    text-transform: capitalize;
 }
 
 .faq-no-back p {
     opacity: 0.5;
-    color: var(--black);
-text-align: justify;
-font-family: ClashDisplay;
-font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: 28px;
-text-transform: capitalize;
+    color: black;
+    text-align: justify;
+    font-family: ClashDisplay;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    -height: 28px;
+    text-transform: capitalize;
 }
 .banner-bottom {
     width: 100%;
@@ -742,7 +742,7 @@ text-transform: capitalize;
     padding-block: 15px;
     border-radius: 4px;
     background: white;
-    color: var(--black);
+    color: black;
     font-family: ClashDisplay;
     font-size: 1.125em; /* Use relative units for font size */
     font-style: normal;
@@ -754,7 +754,7 @@ text-transform: capitalize;
 }
 
 .textdata-banner button:hover {
-    background-color: var(--base);
+    background-color: #FF5555;
     color: white;
 }
 
@@ -795,40 +795,40 @@ footer {
 
 .contact-left-footer i{
     padding-right: 6px;
-    color: var(--base);
+    color: #FF5555;
 }
 
 .contact-left-footer h1 {
     margin-left: 8px;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 .contact-left-footer h2 {
     margin-left: 8px;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 .Links-footer-sec h1{
     text-align: center;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 32px;
-font-style: normal;
-font-weight: 500;
-line-height: 42px; /* 131.25% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; /* 131.25% */
+    text-transform: capitalize;
 }
 
 .Links-footer-sec ul {
@@ -838,25 +838,25 @@ text-transform: capitalize;
 
 .Links-footer-sec ul li{
     margin-block: 15px;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 
 .legal-footer-sec h1{
     text-align: center;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 32px;
-font-style: normal;
-font-weight: 500;
-line-height: 42px; /* 131.25% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; /* 131.25% */
+    text-transform: capitalize;
 }
 
 .legal-footer-sec ul {
@@ -866,26 +866,26 @@ text-transform: capitalize;
 
 .legal-footer-sec ul li{
     margin-block: 15px;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 
 
 .product-footer-sec h1{
     text-align: center;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 32px;
-font-style: normal;
-font-weight: 500;
-line-height: 42px; /* 131.25% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; /* 131.25% */
+    text-transform: capitalize;
 }
 
 .product-footer-sec ul {
@@ -895,47 +895,47 @@ text-transform: capitalize;
 
 .product-footer-sec ul li{
     margin-block: 15px;
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 .news-right-footer h1 {
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 32px;
-font-style: normal;
-font-weight: 500;
-line-height: 42px; /* 131.25% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; /* 131.25% */
+    text-transform: capitalize;
 }
 
 .news-right-footer h2 {
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 .submit-btn-form {
     padding-block: 10px;
     padding-inline: 35px;
     color: white;
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
-border-radius: 4px;
-background: var(--black);
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
+    border-radius: 4px;
+    background: black;
 }
 
 .email-input-form {
@@ -943,11 +943,11 @@ background: var(--black);
     padding-inline: 35px;
     padding-block: 10px;
     color: #81848A;
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
 }
 
 .bottom-footer-section {
@@ -959,13 +959,13 @@ line-height: 26px; /* 162.5% */
 
 .bottom-footer-section h1 {
     border-top: 5px solid rgba(22, 22, 22, 0.00);
-    color: var(--black);
-font-family: ClashDisplay;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-text-transform: capitalize;
+    color: black;
+    font-family: ClashDisplay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    text-transform: capitalize;
 }
 
 
@@ -1142,8 +1142,8 @@ nav {
 }
 
 .mid-right-img-sub-main-section img{
-   left: -15px;
-   bottom: -180px;
+    left: -15px;
+    bottom: -180px;
     position: absolute;
     width: 120%;
 }
@@ -1177,10 +1177,10 @@ nav {
 }
 
 .mid-top-heading-sub p{
-width: 100%;
-font-size: 12px;
-line-height: 15px;
-text-align: justify;
+    width: 100%;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: justify;
 }
 
 
@@ -1255,13 +1255,13 @@ text-align: justify;
 }
 
 .head-testinomial small{
-font-size: 14px;
+    font-size: 14px;
 }
 
 .head-testinomial h1{
     margin-top: 1%;
     line-height: 28px;
-font-size: 35px;
+    font-size: 35px;
 }
 
 .body-text-testinomial-user {
@@ -1269,13 +1269,13 @@ font-size: 35px;
 }
 
 .body-text-testinomial-user h1{
-font-size: 25px;
-line-height: 25px; /* 100% */
+    font-size: 25px;
+    line-height: 25px; /* 100% */
 }
 
 .body-text-testinomial-user p{
-font-size: 16px;
-line-height: 20px; /* 155.556% */
+    font-size: 16px;
+    line-height: 20px; /* 155.556% */
 }
 
 
@@ -1285,13 +1285,13 @@ line-height: 20px; /* 155.556% */
 }
 
 .head-faq small{
-font-size: 14px;}
+    font-size: 14px;
+}
 
 .head-faq h1 {
     width: 100%;
-font-size: 30px;
-line-height: 40px;
-
+    font-size: 30px;
+    line-height: 40px;
 }
 
 .faq-sub-top,.faq-sub-mid {
@@ -1305,16 +1305,16 @@ line-height: 40px;
 }
 
 .faq-color-back h1{
-font-size: 30px;
+    font-size: 30px;
 }
 
 .faq-color-back p {
-font-size: 16px;
+    font-size: 16px;
 }
 
 
 .faq-no-back {
-    border: var(--black) solid;
+    border: black solid;
     width: 90%;
     padding: 18px;
 }
@@ -1359,7 +1359,7 @@ font-size: 16px;
 }
 
 .textdata-banner button:hover {
-    background-color: var(--base);
+    background-color: #FF5555;
     color: white;
 }
 
@@ -1367,7 +1367,6 @@ font-size: 16px;
 footer {
     padding-bottom: 10px;
     margin-top: 8%;
-  
 }
 
 
@@ -1472,7 +1471,7 @@ footer {
     }
     
     .Video-btn i {
-     padding-right: 1px;
+        padding-right: 1px;
     }
     
     
@@ -1549,8 +1548,8 @@ footer {
     }
     
     .mid-right-img-sub-main-section img{
-       left: -50px;
-       bottom: -300px;
+        left: -50px;
+        bottom: -300px;
         position: absolute;
         width: 120%;
     }
@@ -1584,10 +1583,10 @@ footer {
     }
     
     .mid-top-heading-sub p{
-    width: 100%;
-    font-size: 13px;
-    line-height: 15px;
-    text-align: justify;
+        width: 100%;
+        font-size: 13px;
+        line-height: 15px;
+        text-align: justify;
     }
     
     
@@ -1662,13 +1661,13 @@ footer {
     }
     
     .head-testinomial small{
-    font-size: 18px;
+        font-size: 18px;
     }
     
     .head-testinomial h1{
         margin-top: 1%;
         line-height: 55px;
-    font-size: 45px;
+        font-size: 45px;
     }
     
     .body-text-testinomial-user {
@@ -1676,13 +1675,13 @@ footer {
     }
     
     .body-text-testinomial-user h1{
-    font-size: 40px;
-    line-height: 45px; /* 100% */
+        font-size: 40px;
+        line-height: 45px; /* 100% */
     }
     
     .body-text-testinomial-user p{
-    font-size: 18px;
-    line-height: 28px; /* 155.556% */
+        font-size: 18px;
+        line-height: 28px; /* 155.556% */
     }
     
     
@@ -1693,13 +1692,13 @@ footer {
     }
     
     .head-faq small{
-    font-size: 16px;}
+        font-size: 16px;
+    }
     
     .head-faq h1 {
         width: 100%;
-    font-size: 45px;
-    line-height: 40px;
-    
+        font-size: 45px;
+        line-height: 40px;
     }
     
     .faq-sub-top,.faq-sub-mid {
@@ -1713,16 +1712,16 @@ footer {
     }
     
     .faq-color-back h1{
-    font-size: 30px;
+        font-size: 30px;
     }
     
     .faq-color-back p {
-    font-size: 16px;
+        font-size: 16px;
     }
     
     
     .faq-no-back {
-        border: var(--black) solid;
+        border: black solid;
         width: 90%;
         padding: 18px;
     }
@@ -1767,7 +1766,7 @@ footer {
     }
     
     .textdata-banner button:hover {
-        background-color: var(--base);
+        background-color: #FF5555;
         color: white;
     }
     
@@ -1874,7 +1873,7 @@ footer {
       
     
         .mid-top-heading-sub p{
-        font-size: 22px;
+            font-size: 22px;
         }
         
   
@@ -1892,35 +1891,30 @@ footer {
         
         
         .bottom-top-heading-sub p{
-        font-size: 22px;
+            font-size: 22px;
         }
         
       
         
         .head-testinomial small{
-        font-size: 22px;
+            font-size: 22px;
         }
         
         .head-testinomial h1{
-    
-        font-size: 68px;
-        font-style: normal;
-      
-        line-height: 55px;
+            font-size: 68px;
+            font-style: normal;
+            line-height: 55px;
         }
         
    
-        .body-text-testinomial-user h1{
-        
-        font-size: 45px;
-        line-height: 45px;
+        .body-text-testinomial-user h1{ 
+            font-size: 45px;
+            line-height: 45px;
         }
         
         .body-text-testinomial-user p{
-        
-        font-size: 22px;
-        line-height: 35px; /* 155.556% */
-       
+            font-size: 22px;
+            line-height: 35px; /* 155.556% *
         }
         
         
@@ -1934,7 +1928,7 @@ footer {
             border-radius: 8px;
             width: 50%;
             display: block;
-            background-color: var(--base);
+            background-color: #FF5555;
             padding: 15px;
         }
         
@@ -1953,11 +1947,11 @@ footer {
         }
         
         .faq-no-back h1{
-        font-size: 28px;
+            font-size: 28px;
         }
         
         .faq-no-back p {
-        font-size: 22px;
+            font-size: 22px;
         }
         .banner-bottom {
             width: 100%;
