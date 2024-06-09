@@ -470,7 +470,6 @@ text-transform: capitalize;
 
 
 .bottom-top-heading-sub h2{
-    
     margin-top: 6px;
     color: black;
     font-family: ClashDisplay;
@@ -700,7 +699,7 @@ text-transform: capitalize;
 .banner-bottom {
     width: 100%;
     height: 100vh; 
-    background-image: url('dir/images/banner.png');
+    background-image: url('image/banner.png');
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center; 
@@ -936,6 +935,12 @@ footer {
     text-transform: capitalize;
     border-radius: 4px;
     background: black;
+}
+
+.submit-btn-form:hover{
+    background-color: #FF5555;
+    color: white;
+    cursor: pointer;
 }
 
 .email-input-form {
@@ -1914,31 +1919,7 @@ footer {
         
         .body-text-testinomial-user p{
             font-size: 22px;
-            line-height: 35px; /* 155.556% *
-        }
-        
-        
-        .faq-section {
-            width: 85%;
-            margin-inline: 10%;
-        }
-    
-        
-        .faq-color-back {
-            border-radius: 8px;
-            width: 50%;
-            display: block;
-            background-color: #FF5555;
-            padding: 15px;
-        }
-        
-        .faq-color-back h1{
-         font-size: 28px;
-        }
-        
-        .faq-color-back p {
-        font-size: 22px;
-        line-height: 28px; /* 155.556% */
+            line-height: 35px; /* 155.556% */
         }
         
         
